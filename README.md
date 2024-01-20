@@ -4,8 +4,9 @@
 
 This repository contains the Cairo smart contracts for starknet development on our blockchain-based game, and my journey of learning cairo (yes, i just learnt since 3rd week of 2024 begin). These contracts facilitate the creation, management, and interaction with in-game assets, transactions, and special on-chain game features.
 
+Apparently, some of implementations are still lacking on cairo-1 because some of feature i want only available on cairo-0 for example the EIP-712 equivalent here. [offchain-sign](https://community.starknet.io/t/signing-transactions-and-off-chain-messages/66/3) Thus migrating smart contracts from solidity isn't fully 100% success here, some of codes are still on experimenting and not merged to main branch yet
+
 <!-- youtube -->
-<!-- charts game mechanic -->
 
 ### 1 Min Starknet Update:
 
@@ -15,9 +16,9 @@ This repository contains the Cairo smart contracts for starknet development on o
 
 [![Starknet Update](https://img.youtube.com/vi/pi8XSNQL1fU/0.jpg)](https://www.youtube.com/watch?v=pi8XSNQL1fU)
 
-### Gameplay mechanics
+<!-- charts game mechanic -->
 
-<!-- images  -->
+### Gameplay mechanics
 
 <img src="./images/7. SOLO Gameplay.png" alt="Gameplay" width="400"/> <img src="./images/8. Game Economic.png" alt="Economic 2" width="400"/>
 
