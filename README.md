@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the Cairo smart contracts for starknet development on our blockchain-based game. These contracts facilitate the creation, management, and interaction with in-game assets, transactions, and special on-chain game features.
+This repository contains the Cairo smart contracts for starknet development on our blockchain-based game, and my journey of learning cairo (yes, i just learnt since 3rd week of 2024 begin). These contracts facilitate the creation, management, and interaction with in-game assets, transactions, and special on-chain game features.
 
 <!-- youtube -->
 <!-- charts game mechanic -->
